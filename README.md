@@ -2,7 +2,7 @@
 Training about Github for Takezawa
 
 ## 欲望
-いぬ食べたい
+猫食べたい
 
 ## やりたいこと
 天下を取る。
